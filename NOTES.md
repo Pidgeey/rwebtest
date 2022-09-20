@@ -52,6 +52,9 @@ Coté intégration:
 - Gestion des couleurs dynamique des montants (rouge si négatif, vert si positif)
 - Et pis bah c'est tout 🤷‍♂️
 
+## Erreurs
+Je n'ai pas réussi à débug une erreur que j'ai lorsque j'effectue certaines updates. (Tentative hydrate)
+Exemple: tri de la liste par ordre croissant, puis décroissant déclanche cette erreur. 
 
 ## Améliorations
 ### Collections
